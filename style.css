@@ -154,7 +154,7 @@ body{
   .about{
     background-color: #fd79a8;
   }*/
-@media(max-width:500px) {
+@media(max-width:650px) {
     .main-header .right-side{
       display: none;
     }
